@@ -18,7 +18,7 @@ torchvision               0.4.0
 2.plus head train data in ./hesd/Train/
     image name rule: pokemon (1).png 、 pokemon (2).png ...
 
-if you need to resume please put in ./models/your_model_name.pkl
+if you need to resume model please put in ./models
     and change resume_name==./models/your_model_name.pkl
     
 Starting to train AE.py  and result will produce in train_all folder  
