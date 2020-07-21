@@ -1,5 +1,5 @@
-# pokemon
-AutoEncoder (One Shot Learning)
+# Pokemon (One Shot Learning)
+AutoEncoder 
 
 python                    3.6.8
 pytorch                   1.2.0
