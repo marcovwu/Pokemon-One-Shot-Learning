@@ -1,5 +1,5 @@
 # pokemon
-AutoEncoder
+AutoEncoder (One Shot Learning)
 
 python                    3.6.8
 pytorch                   1.2.0
@@ -22,3 +22,23 @@ if you need to resume model please put in ./models
     and change resume_name==./models/your_model_name.pkl
     
 Starting to train AE.py  and result will produce in train_all folder  
+
+(1) Start gui
+
+![image](https://github.com/marcovwu/pokemon/blob/master/file_image/start.JPG)
+
+(2) Chose test image
+
+![image](https://github.com/marcovwu/pokemon/blob/master/file_image/test_image.JPG)
+
+(3) Chose calculate mode
+
+![image](https://github.com/marcovwu/pokemon/blob/master/file_image/chose.JPG)
+
+(4) Answer
+
+![image](https://github.com/marcovwu/pokemon/blob/master/file_image/answer.JPG)
+
+(5) Result
+
+![image](https://github.com/marcovwu/pokemon/blob/master/file_image/result.JPG)
